@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Student database management app which allows CRUD Operations on student database(i.e. Delete, Create, Update student details)
 
-## Available Scripts
+## Deployment Link
 
-In the project directory, you can run:
+https://frontend-deployment-roan.vercel.app/#
 
 ### `npm start`
 
